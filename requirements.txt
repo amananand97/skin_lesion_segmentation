@@ -1,0 +1,12 @@
+cv2
+numpy
+pandas
+tensorflow
+matplotlib.pyplot
+tqdm
+sklearn.model_selection
+tensorflow.keras.models
+tensorflow.keras.layers
+tensorflow.keras.optimizers.legacy
+tensorflow.keras.callbacks
+tensorflow.keras.preprocessing.image
